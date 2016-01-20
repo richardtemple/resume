@@ -11,20 +11,20 @@ headers:
     projects: Projects
 
 info:
-    name: Full Name
+    name: Richard Temple
     # dob: 1980-01-01 # not mandatory
-    shortdesc: Job Title
-    email: example@example.com
-    phone: (313) - 867-5309 # not mandatory
-    homepage: http://example.com/ # not mandatory
+    shortdesc: Senior Software Engineer
+    email: richardtemple@mutexmusic.com
+    phone: (503) 360-6079 # not mandatory
+    homepage: http://mutexmusic.com/ # not mandatory
     address:
-        street: 123 Fake Street
-        city: City
-        region: Region # not mandatory
-        postal_code: 12345 # not mandatory
-        country: Country # not mandatory
+        street: 12450 NW Burton St.
+        city: Portland
+        region: Or # not mandatory
+        postal_code: 97229 # not mandatory
+        #country: Country # not mandatory
     desc: |
-        Progressively evolve cross-platform ideas before impactful infomediaries. Energistically visualize tactical initiatives before cross-media catalysts for change.
+        To find employment creating high quality websites and APIs using Ruby on Rails.
 
 skills:
     - name: Web design
@@ -35,9 +35,9 @@ skills:
       desc: Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.
 
 languages:
-    - name: Gibberish
-      level: Native language
-    - name: Manager Speak
+    - name: Java
+      level: Fluent
+    - name: Ruby on Rails
       level: Fluent
 
 alphabetsoup:
@@ -46,32 +46,134 @@ alphabetsoup:
     - Javascript
 
     - Jquery
-    - PHP
-    - CVS / Subversion
+    - Ruby on Rails
+    - GIT / Subversion
 
     - OS X
-    - Windows XP/Vista
+    - Windows
     - Linux
 
+    - One
+    - Two
+    - Three
+
 links:
-    - name: Link1
-      url: http://example.com/
+    - name: My Repositories
+      url: https://github.com/richardtemple?tab=repositories
     - name: Another link
       url: https://example.com/
 
 jobs:
-    - title: Senior Interface Designer
-      company: Famous Company
-      url: http://example.com/
+    - title: Senior Software Engineer (Web/Mobile Developer)
+      company: Con-way Transportation/XPO Logistics
+      url: http://xpo.com
       dates:
-          start: 2007-01-02
+          start: 2011-05-02
           end: Present
       desc: |
-          Intrinsicly enable optimal core competencies through corporate relationships.
+          Xamarin Mobile Platform re-engineering Con-way’s heavily used internal mobile applications
 
-          Phosfluorescently implement worldwide vortals and client-focused imperatives.
+          Developed primarily in C# for android platform
 
-          Conveniently initiate virtual paradigms and top-line convergence.
+          Tibco Web Messaging Services used for our enterprise messaging and communication between mobile devices and backend. 
+
+          Programmed/Analyzed in Java/JSP (Struts/JSF), JavaScript, and SQL
+
+          Projects primarily were web-based internal operations applications.
+
+          Other tasks included being on the interview team, continued self education in Ruby on Rails, iOS programming, JavaScript, and jQuery.
+
+    - title: Owner, Music Composer, Techology Contractor
+      company: Mutex Music
+      url: http://wwww.mutexmusic.com
+      dates:
+          start: 2004-01-01
+          end: 20013-01-01
+      desc: |
+          Composed and distributed music for film, TV, and web medias.
+
+          Consulted as general technologist for composers/musicians setting up small networks, building PCs, and administering software and hardware.
+
+          Small contract with Beaverton School district doing web design.  (using Dreamweaver)
+
+          Currently running Tomcat Application Server and mySQL database for internal sales tracking (JSP/Java implementing Struts 2, developed using Eclipse.)
+
+          Assisted other composers in music related activities using the latest music technology.
+
+    - title: Senior Systems Engineer
+      company: Con-way Transportation
+      dates:
+          start: 1998
+          end: 2004
+      desc: |
+          Programmed/Analyzed in Java/JSP, Visual Basic, PL/SQL (Oracle), and SQL.
+
+          Mentored department during beginning stages of Java implementation.
+
+          Mentored team in Visual Basic.
+
+          Primary focuses included two large operations applications, company Web Team, and System Architecture.
+
+          Linehaul feature in CIO Magazine: http://tinyurl.com/4pzfegs
+
+    - title: Systems Engineer
+      company: Nike
+      url: http://www.nike.com
+      dates:
+          start: 1998
+          end: 1998
+      desc: |
+          Programmed/Analyzed in Visual Basic 5.0, HTML, Visual Basic for Applications, COBOL, CSP, CICS, and SQL.
+
+          Attended classes in Business Writing and Organizational Business at Portland State University.  Self studied for VB 5.0 exam (passing score). 
+
+    - title: Junior Interface Designer
+      company: Technocorp
+      dates:
+          start: 2005-01-01
+          end: 2007-01-01
+      desc: |
+          Progressively reconceptualize multifunctional "outside the box" thinking through inexpensive methods of empowerment.
+
+          Compellingly morph extensive niche markets with mission-critical ideas.
+
+          Phosfluorescently deliver bricks-and-clicks strategic theme areas rather than scalable benefits.
+
+    - title: Junior Interface Designer
+      company: Technocorp
+      dates:
+          start: 2005-01-01
+          end: 2007-01-01
+      desc: |
+          Progressively reconceptualize multifunctional "outside the box" thinking through inexpensive methods of empowerment.
+
+          Compellingly morph extensive niche markets with mission-critical ideas.
+
+          Phosfluorescently deliver bricks-and-clicks strategic theme areas rather than scalable benefits.
+
+    - title: Junior Interface Designer
+      company: Technocorp
+      dates:
+          start: 2005-01-01
+          end: 2007-01-01
+      desc: |
+          Progressively reconceptualize multifunctional "outside the box" thinking through inexpensive methods of empowerment.
+
+          Compellingly morph extensive niche markets with mission-critical ideas.
+
+          Phosfluorescently deliver bricks-and-clicks strategic theme areas rather than scalable benefits.
+
+    - title: Junior Interface Designer
+      company: Technocorp
+      dates:
+          start: 2005-01-01
+          end: 2007-01-01
+      desc: |
+          Progressively reconceptualize multifunctional "outside the box" thinking through inexpensive methods of empowerment.
+
+          Compellingly morph extensive niche markets with mission-critical ideas.
+
+          Phosfluorescently deliver bricks-and-clicks strategic theme areas rather than scalable benefits.
 
     - title: Junior Interface Designer
       company: Technocorp
