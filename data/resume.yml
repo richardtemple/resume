@@ -18,57 +18,54 @@ info:
     phone: (503) 360-6079 # not mandatory
     homepage: http://mutexmusic.com/ # not mandatory
     address:
-        street: 12450 NW Burton St.
         city: Portland
         region: Or # not mandatory
         postal_code: 97229 # not mandatory
         #country: Country # not mandatory
     desc: |
-        To find employment creating high quality websites and APIs using Ruby on Rails.
+        Experienced developer in web and mobile platforms seeking employment creating high quality APIs and web sites.  Currently pursuing opportunities using technologies like Ruby on Rails.
 
 skills:
-    - name: Web design
-      desc: Assertively exploit wireless initiatives rather than synergistic core competencies.
-    - name: Interface Design
-      desc: Credibly streamline mission-critical value with multifunctional functionalities.
-    - name: Project Direction
-      desc: Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.
+    - name: Web Developer
+      desc: Creating internal and customer facing web sites using platforms such as Ruby on Rails and Java.
+    - name: Mobile Develper
+      desc: Experienced creating applications for Android and iOS using native and Xamarin platforms
+    - name: Musician/Composer
+      desc: Performing on saxophone and keyboards or composing music for film.
 
 languages:
-    - name: Java
-      level: Fluent
-    - name: Ruby on Rails
-      level: Fluent
+    - name: German
+      level: Light conversational
 
 alphabetsoup:
-    - XHTML
+    - Ruby on Rails
     - CSS
     - Javascript
 
-    - Jquery
-    - Ruby on Rails
+    - HTML
+    - JQuery
     - GIT / Subversion
 
     - OS X
     - Windows
     - Linux
 
-    - One
-    - Two
-    - Three
+    - C#
+    - Java
+    - Visual Basic
 
 links:
     - name: My Repositories
       url: https://github.com/richardtemple?tab=repositories
-    - name: Another link
-      url: https://example.com/
+    - name: IMDB Profile
+      url: http://www.imdb.com/name/nm1758084/?ref_=fn_nm_nm_6
 
 jobs:
     - title: Senior Software Engineer (Web/Mobile Developer)
-      company: Con-way Transportation/XPO Logistics
+      company: Con-way/XPO Logistics
       url: http://xpo.com
       dates:
-          start: 2011-05-02
+          start: 2011-05
           end: Present
       desc: |
           Xamarin Mobile Platform re-engineering Con-way’s heavily used internal mobile applications
@@ -87,8 +84,8 @@ jobs:
       company: Mutex Music
       url: http://wwww.mutexmusic.com
       dates:
-          start: 2004-01-01
-          end: 20013-01-01
+          start: 2004
+          end: 2014
       desc: |
           Composed and distributed music for film, TV, and web medias.
 
@@ -102,6 +99,7 @@ jobs:
 
     - title: Senior Systems Engineer
       company: Con-way Transportation
+      url: http://www.con-way.com
       dates:
           start: 1998
           end: 2004
@@ -127,88 +125,94 @@ jobs:
 
           Attended classes in Business Writing and Organizational Business at Portland State University.  Self studied for VB 5.0 exam (passing score). 
 
-    - title: Junior Interface Designer
-      company: Technocorp
+    - title: Associate Software Engineer-Consultant for Year 2000 project
+      company: Computer Task Group
       dates:
-          start: 2005-01-01
-          end: 2007-01-01
+          start: 1996
+          end: 1998
       desc: |
-          Progressively reconceptualize multifunctional "outside the box" thinking through inexpensive methods of empowerment.
+          Performed duties of database analyst with a MS Access-based repository.
 
-          Compellingly morph extensive niche markets with mission-critical ideas.
+          Programmed in Visual Basic for Applications (Access and Excel), COBOL, and SQL.
 
-          Phosfluorescently deliver bricks-and-clicks strategic theme areas rather than scalable benefits.
+          Managed a team of 13 people for a major insurance company conversion project.
 
-    - title: Junior Interface Designer
-      company: Technocorp
+          Took extensive training in Visual Basic, SQL, Database Management, COBOL, Project Management, and CICS.
+
+
+    - title: Manager on Duty
+      company: Egghead Software
       dates:
-          start: 2005-01-01
-          end: 2007-01-01
+          start: 1996
+          end: 1996
       desc: |
-          Progressively reconceptualize multifunctional "outside the box" thinking through inexpensive methods of empowerment.
+          Managed the store and floor operations in the highest selling Egghead store in the US.
 
-          Compellingly morph extensive niche markets with mission-critical ideas.
+          Utilized interpersonal skills when dealing with customers and co-workers.
 
-          Phosfluorescently deliver bricks-and-clicks strategic theme areas rather than scalable benefits.
+          Able to explain and operate products being sold.
 
-    - title: Junior Interface Designer
-      company: Technocorp
+    - title: Multimedia Developer
+      company: LoudMouth, Inc.
       dates:
-          start: 2005-01-01
-          end: 2007-01-01
-      desc: |
-          Progressively reconceptualize multifunctional "outside the box" thinking through inexpensive methods of empowerment.
+          start: 1995
+          end: 1996
 
-          Compellingly morph extensive niche markets with mission-critical ideas.
-
-          Phosfluorescently deliver bricks-and-clicks strategic theme areas rather than scalable benefits.
-
-    - title: Junior Interface Designer
-      company: Technocorp
+    - title: Recording Engineer and Digital Editing Specialist/Music Instructor
+      company: Univeristy of Oregon
       dates:
-          start: 2005-01-01
-          end: 2007-01-01
-      desc: |
-          Progressively reconceptualize multifunctional "outside the box" thinking through inexpensive methods of empowerment.
+          start: 1993
+          end: 1996
 
-          Compellingly morph extensive niche markets with mission-critical ideas.
-
-          Phosfluorescently deliver bricks-and-clicks strategic theme areas rather than scalable benefits.
-
-    - title: Junior Interface Designer
-      company: Technocorp
+    - title: Military band personnel
+      company: US Army Band
       dates:
-          start: 2005-01-01
-          end: 2007-01-01
-      desc: |
-          Progressively reconceptualize multifunctional "outside the box" thinking through inexpensive methods of empowerment.
-
-          Compellingly morph extensive niche markets with mission-critical ideas.
-
-          Phosfluorescently deliver bricks-and-clicks strategic theme areas rather than scalable benefits.
+          start: 1988
+          end: 1991
 
 education: # this section is not mandatory
-    - name: Indiana University
-      url: http://indiana.edu # not mandatory
-      city: Bloomington
-      region: Indiana
-      country: USA # not mandatory
+    - name: University of Oregon
+      url: http://uoregon.edu # not mandatory
+      city: Beaverton
+      region: Oregon
       dates:
-        start: 2001-01-01
-        end: 2010-01-01 # not mandatory
-      title: Dual Major, Economics and English
-      grade: 4.0 GPA # not mandatory
+        start: 1998
+        end: 2001
+      title: MS Applied Information Management <p>
+      #grade: 4.0 GPA # not mandatory
+
+    - name: Computer Task Group Graduate Program
+      city: Buffalo
+      region: New York
+      dates:
+        start: 1996
+        end: 1996
+      title: Professional studies in COBOL, TSO, JCL, CICS, and consulting skills <p>
+
+    - name: University of Oregon
+      url: http://uoregon.edu # not mandatory
+      city: Eugene
+      region: Oregon
+      dates:
+        start: 1991
+        end: 1996
+      title: BS Music Technology <p>
+
+    - name: Ashland Senior High School
+      city: Ashland
+      region: Oregon
+      dates:
+        start: 1986
+        end: 1988
 
 projects: # this section is not mandatory
-    - name: ResumeMan
+    - name: ResumeMan 
       desc: |
           Resume Man is an HTML and PDF resume builder made in Ruby with Middleman.
       url: https://github.com/reefab/ResumeMan # not mandatory
-      dates: # not mandatory
-        start: 2013-02-18
-        end: 2014-04-05 # not mandatory
-      location: # not mandatory
-        city: Florence
-        region: Tuscany
-        country: Italy # not mandatory
+
+    - name: Retirment Calculator
+      desc: |
+          Retirment Calculator is a Ruby on Rails project I created to better learn and understand the Rails platform.
+      url: https://github.com/richardtemple/resume
 
