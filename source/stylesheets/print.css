@@ -15,7 +15,8 @@ a#pdf {
 }
 
 a:not(.donotexpand):link:after, a:not(.donotexpand):visited:after {
-  content: " - " attr(href) " ";
+  text-decoration: none;
+  content: "  -  (" attr(href) ")";
 }
 
 div.no-page-breaker {

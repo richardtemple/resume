@@ -23,7 +23,7 @@ info:
         postal_code: 97229 # not mandatory
         #country: Country # not mandatory
     desc: |
-        Experienced developer in web and mobile platforms seeking employment creating high quality APIs and web sites.  Currently pursuing opportunities using technologies like Ruby on Rails.
+        Experienced developer with web and mobile platforms seeking employment creating high quality APIs and web sites.  Currently pursuing opportunities using RESTful technologies like Ruby on Rails.
 
 skills:
     - name: Web Developer
@@ -34,6 +34,9 @@ skills:
       desc: Performing on saxophone and keyboards or composing music for film.
 
 languages:
+
+    - name: English
+      level: Primary language
     - name: German
       level: Light conversational
 
@@ -54,9 +57,13 @@ alphabetsoup:
     - Java
     - Visual Basic
 
+    - Bash
+    - Obj-C
+    - JSF
+
 links:
     - name: My Repositories
-      url: https://github.com/richardtemple?tab=repositories
+      url: https://www.github.com/richardtemple?tab=repositories
     - name: IMDB Profile
       url: http://www.imdb.com/name/nm1758084/?ref_=fn_nm_nm_6
 
@@ -72,7 +79,7 @@ jobs:
 
           Developed primarily in C# for android platform
 
-          Tibco Web Messaging Services used for our enterprise messaging and communication between mobile devices and backend. 
+          Tibco Web Messaging Services used for our enterprise messaging and communication between mobile devices and backend.
 
           Programmed/Analyzed in Java/JSP (Struts/JSF), JavaScript, and SQL
 
@@ -123,7 +130,7 @@ jobs:
       desc: |
           Programmed/Analyzed in Visual Basic 5.0, HTML, Visual Basic for Applications, COBOL, CSP, CICS, and SQL.
 
-          Attended classes in Business Writing and Organizational Business at Portland State University.  Self studied for VB 5.0 exam (passing score). 
+          Attended classes in Business Writing and Organizational Business at Portland State University.  Self studied for VB 5.0 exam (passing score).
 
     - title: Associate Software Engineer-Consultant for Year 2000 project
       company: Computer Task Group
@@ -172,7 +179,7 @@ jobs:
 
 education: # this section is not mandatory
     - name: University of Oregon
-      url: http://uoregon.edu # not mandatory
+      url: http://www.uoregon.edu # not mandatory
       city: Beaverton
       region: Oregon
       dates:
@@ -190,7 +197,7 @@ education: # this section is not mandatory
       title: Professional studies in COBOL, TSO, JCL, CICS, and consulting skills <p>
 
     - name: University of Oregon
-      url: http://uoregon.edu # not mandatory
+      url: http://www.uoregon.edu # not mandatory
       city: Eugene
       region: Oregon
       dates:
@@ -206,13 +213,12 @@ education: # this section is not mandatory
         end: 1988
 
 projects: # this section is not mandatory
-    - name: ResumeMan 
+    - name: ResumeMan
       desc: |
           Resume Man is an HTML and PDF resume builder made in Ruby with Middleman.
-      url: https://github.com/reefab/ResumeMan # not mandatory
+      url: http://github.com/reefab/ResumeMan # not mandatory
 
     - name: Retirment Calculator
       desc: |
           Retirment Calculator is a Ruby on Rails project I created to better learn and understand the Rails platform.
-      url: https://github.com/richardtemple/resume
-
+      url: http://github.com/richardtemple/resume
