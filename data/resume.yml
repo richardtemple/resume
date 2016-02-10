@@ -66,6 +66,8 @@ links:
       url: https://www.github.com/richardtemple?tab=repositories
     - name: Retirement Calculator
       url: http://retirementcalculator.herokuapp.com/
+    - name: Rails Tutorial Blog (u: new@railstutorial.org, p: foobar)
+      url: https://railstutorialblog.herokuapp.com/
     - name: IMDB Profile
       url: http://www.imdb.com/name/nm1758084/?ref_=fn_nm_nm_6
 
