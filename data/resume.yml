@@ -42,16 +42,12 @@ languages:
 
 alphabetsoup:
     - Ruby on Rails
-    - CSS
-    - Javascript
+    - HTML/CSS
+    - Javascript/JQuery
 
-    - HTML
-    - JQuery
-    - GIT / Subversion
-
-    - OS X
-    - Windows
-    - Linux
+    - Sublime/VIM
+    - Eclipse/MS VS
+    - GIT/Subversion
 
     - C#
     - Java
@@ -60,6 +56,10 @@ alphabetsoup:
     - Bash
     - Obj-C
     - JSF
+
+    - OS X
+    - Windows
+    - Linux
 
 links:
     - name: My Repositories
