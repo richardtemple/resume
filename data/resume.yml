@@ -14,7 +14,7 @@ info:
     name: Richard Temple
     # dob: 1980-01-01 # not mandatory
     shortdesc: Senior Software Engineer
-    email: richardtemple@mutexmusic.com
+    email: richardjamestemple@gmail.com
     phone: (503) 360-6079 # not mandatory
     homepage: http://richardtemple.github.io/resume # not mandatory
     address:
@@ -49,13 +49,13 @@ alphabetsoup:
     - Eclipse/MS VS
     - GIT/Subversion
 
-    - C#
+    - C# Java
+    - erb HAML
+    - Obj-C
+    
+    - Certifications in&#58;
     - Java
     - Visual Basic
-
-    - Bash
-    - Obj-C
-    - JSF
 
     - OS X
     - Windows
@@ -87,8 +87,6 @@ jobs:
 
           Programmed/Analyzed in Java/JSP (Struts/JSF), JavaScript, and SQL
 
-          Projects primarily were web-based internal operations applications.
-
           Other tasks included being on the interview team, continued self education in Ruby on Rails, iOS programming, JavaScript, and jQuery.
 
     - title: Owner, Music Composer, Techology Contractor
@@ -98,13 +96,11 @@ jobs:
           start: 2004
           end: 2014
       desc: |
-          Composed and distributed music for film, TV, and web medias.
+          Composed and distributed music for film, TV, and web medias.  (IMDB profile link below.)
 
           Consulted as general technologist for composers/musicians setting up small networks, building PCs, and administering software and hardware.
 
           Small contract with Beaverton School district doing web design.  (using Dreamweaver)
-
-          Currently running Tomcat Application Server and mySQL database for internal sales tracking (JSP/Java implementing Struts 2, developed using Eclipse.)
 
           Assisted other composers in music related activities using the latest music technology.
 
@@ -160,8 +156,6 @@ jobs:
           Managed the store and floor operations in the highest selling Egghead store in the US.
 
           Utilized interpersonal skills when dealing with customers and co-workers.
-
-          Able to explain and operate products being sold.
 
     - title: Multimedia Developer
       company: LoudMouth, Inc.
@@ -219,10 +213,10 @@ education: # this section is not mandatory
 projects: # this section is not mandatory
     - name: ResumeMan
       desc: |
-          Resume Man is an HTML and PDF resume builder made in Ruby with Middleman.
+          Resume Man (by reefab) is a command line resume builder made in Ruby with Middleman.
       url: http://github.com/reefab/ResumeMan # not mandatory
 
     - name: Retirment Calculator
       desc: |
-          Retirment Calculator is a Ruby on Rails project I created to better learn and understand the Rails platform.
+          A Ruby on Rails project I created to better learn and understand the Rails platform.
       url: http://github.com/richardtemple/resume
