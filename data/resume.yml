@@ -49,10 +49,10 @@ alphabetsoup:
     - Eclipse/MS VS
     - GIT/Subversion
 
-    - C# Java
-    - erb HAML
+    - C#/Xamarin
+    - erb/HAML
     - Obj-C
-    
+
     - Certifications in&#58;
     - Java
     - Visual Basic
@@ -74,7 +74,7 @@ links:
 jobs:
     - title: Senior Software Engineer (Web/Mobile Developer)
       company: Con-way/XPO Logistics
-      url: http://xpo.com
+      url:
       dates:
           start: 2011-05
           end: Present
@@ -91,7 +91,7 @@ jobs:
 
     - title: Owner, Music Composer, Techology Contractor
       company: Mutex Music
-      url: http://wwww.mutexmusic.com
+      url:
       dates:
           start: 2004
           end: 2014
@@ -106,7 +106,7 @@ jobs:
 
     - title: Senior Systems Engineer
       company: Con-way Transportation
-      url: http://www.con-way.com
+      url:
       dates:
           start: 1998
           end: 2004
@@ -123,7 +123,7 @@ jobs:
 
     - title: Systems Engineer
       company: Nike
-      url: http://www.nike.com
+      url:
       dates:
           start: 1998
           end: 1998
@@ -177,7 +177,7 @@ jobs:
 
 education: # this section is not mandatory
     - name: University of Oregon
-      url: http://www.uoregon.edu # not mandatory
+      url: # not mandatory
       city: Beaverton
       region: Oregon
       dates:
@@ -195,7 +195,7 @@ education: # this section is not mandatory
       title: Professional studies in COBOL, TSO, JCL, CICS, and consulting skills <p>
 
     - name: University of Oregon
-      url: http://www.uoregon.edu # not mandatory
+      url: # not mandatory
       city: Eugene
       region: Oregon
       dates:
