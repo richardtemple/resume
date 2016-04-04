@@ -77,13 +77,11 @@ jobs:
       url:
       dates:
           start: 2011-05
-          end: Present
+          end: 2016-03
       desc: |
           Xamarin Mobile Platform re-engineering Con-way’s heavily used internal mobile applications
 
           Developed primarily in C# for android platform
-
-          Tibco Web Messaging Services used for our enterprise messaging and communication between mobile devices and backend.
 
           Programmed/Analyzed in Java/JSP (Struts/JSF), JavaScript, and SQL
 
