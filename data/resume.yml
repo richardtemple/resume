@@ -23,7 +23,7 @@ info:
         postal_code: 97229 # not mandatory
         #country: Country # not mandatory
     desc: |
-        Experienced developer with web and mobile platforms seeking employment creating high quality APIs and web sites.  Currently pursuing opportunities using RESTful technologies like Ruby on Rails.
+        Experienced developer with web and mobile platforms seeking employment creating high quality APIs and web sites.  Currently pursuing opportunities using RESTful technologies like Ruby on Rails or some of the newer JavaScript frameworks like Angular, React, or Ember.
 
 skills:
     - name: Web Developer
