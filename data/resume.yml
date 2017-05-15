@@ -217,4 +217,4 @@ projects: # this section is not mandatory
     - name: Retirment Calculator
       desc: |
           A Ruby on Rails project I created to better learn and understand the Rails platform.
-      url: http://github.com/richardtemple/resume
+      url: https://github.com/richardtemple/retirement_calculator
