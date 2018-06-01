@@ -7,7 +7,7 @@ module PdfMaker
 
                     kit = PDFKit.new(File.new('build/index.html'),
                                 :margin_top => 20,
-                                :margin_bottom => 0,
+                                :margin_bottom => 10,
                                 :margin_left => 0,
                                 :margin_right => 0,
                                 # :disable_smart_shrinking => true,

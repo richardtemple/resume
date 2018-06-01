@@ -23,7 +23,7 @@ info:
         postal_code: 97229 # not mandatory
         #country: Country # not mandatory
     desc: |
-        Experienced developer with web and mobile platforms seeking employment creating high quality APIs and web sites.  Currently pursuing opportunities using RESTful technologies like Ruby on Rails or some of the newer JavaScript frameworks like Angular, React, or Ember.
+        Experienced developer with web and mobile platforms seeking employment creating high quality APIs and web applications.  Currently pursuing opportunities using RESTful technologies like Ruby on Rails or a JavaScript framework (React).
 
 skills:
     - name: Web Developer
@@ -72,6 +72,19 @@ links:
       url: http://www.imdb.com/name/nm1758084/?ref_=fn_nm_nm_6
 
 jobs:
+    - title: Quality Engineer 3
+      company: Renew Financial
+      url:
+      dates:
+          start: 2016-05
+          end: 2018-06
+      desc: |
+          Developed Ruby and JS based testing automation tools using Selenium, Watir, and Webdriver.
+
+          Improve Rspec and Cucumber tests
+          
+          Create responses for our Wiremock servers
+
     - title: Senior Software Engineer (Web/Mobile Developer)
       company: Con-way/XPO Logistics
       url:
