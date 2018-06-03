@@ -23,7 +23,7 @@ info:
         postal_code: 97229 # not mandatory
         #country: Country # not mandatory
     desc: |
-        Experienced developer with web and mobile platforms seeking employment creating high quality APIs and web applications.  Currently pursuing opportunities using RESTful technologies like Ruby on Rails or a JavaScript framework (React).
+        Experienced developer with web and mobile platforms seeking employment creating high quality APIs and web applications.  Currently pursuing opportunities using RESTful technologies like Ruby on Rails or a JavaScript library/framework (React).
 
 skills:
     - name: Web Developer
@@ -43,7 +43,7 @@ languages:
 alphabetsoup:
     - Ruby on Rails
     - HTML/CSS
-    - Javascript/JQuery
+    - React/JQuery
 
     - Sublime/VIM
     - Eclipse/MS VS
@@ -104,8 +104,8 @@ jobs:
       company: Mutex Music
       url:
       dates:
-          start: 2004
-          end: 2014
+          start: 2004-05
+          end: 2014-10
       desc: |
           Composed and distributed music for film, TV, and web medias.  (IMDB profile link below.)
 
@@ -119,8 +119,8 @@ jobs:
       company: Con-way Transportation
       url:
       dates:
-          start: 1998
-          end: 2004
+          start: 1998-11
+          end: 2004-06
       desc: |
           Programmed/Analyzed in Java/JSP, Visual Basic, PL/SQL (Oracle), and SQL.
 
@@ -136,8 +136,8 @@ jobs:
       company: Nike
       url:
       dates:
-          start: 1998
-          end: 1998
+          start: 1998-01
+          end: 1998-11
       desc: |
           Programmed/Analyzed in Visual Basic 5.0, HTML, Visual Basic for Applications, COBOL, CSP, CICS, and SQL.
 
@@ -146,8 +146,8 @@ jobs:
     - title: Associate Software Engineer-Consultant for Year 2000 project
       company: Computer Task Group
       dates:
-          start: 1996
-          end: 1998
+          start: 1996-11
+          end: 1998-11
       desc: |
           Performed duties of database analyst with a MS Access-based repository.
 
@@ -161,8 +161,8 @@ jobs:
     - title: Manager on Duty
       company: Egghead Software
       dates:
-          start: 1996
-          end: 1996
+          start: 1996-06
+          end: 1996-11
       desc: |
           Managed the store and floor operations in the highest selling Egghead store in the US.
 
@@ -194,15 +194,15 @@ education: # this section is not mandatory
       dates:
         start: 1998
         end: 2001
-      title: MS Applied Information Management <p>
+      title: M.S. Applied Information Management <p>
       #grade: 4.0 GPA # not mandatory
 
     - name: Computer Task Group Graduate Program
       city: Buffalo
       region: New York
       dates:
-        start: 1996
-        end: 1996
+        start: 
+        end: 1996 (Completed)
       title: Professional studies in COBOL, TSO, JCL, CICS, and consulting skills <p>
 
     - name: University of Oregon
@@ -212,7 +212,7 @@ education: # this section is not mandatory
       dates:
         start: 1991
         end: 1996
-      title: BS Music Technology <p>
+      title: B.S. Music Technology <p>
 
     - name: Ashland Senior High School
       city: Ashland
